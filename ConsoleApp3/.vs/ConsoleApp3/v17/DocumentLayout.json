@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleApp3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B8347077-C909-4C69-8242-A23B25C83F37}|..\\Scrapping\\Scrapping.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\scrapping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9F6BC85-49EA-476B-A83B-B81F00CE8CCB}|ConsoleApp3.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9F6BC85-49EA-476B-A83B-B81F00CE8CCB}|ConsoleApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +26,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Scrapping\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Scrapping\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Scrapping\\Program.cs",
+              "RelativeToolTip": "..\\Scrapping\\Program.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwBoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T00:10:29.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleApp3\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
