@@ -19,6 +19,7 @@ namespace Console09
         {
              DateTime fechaActual = DateTime.Today;
              return fechaActual.Year - FechaNacimiento.Year;
+           
         }
     }
 }

@@ -3,22 +3,34 @@
   "WorkspaceRootPath": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleApp3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\entidades\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\constant\\constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\entidades\\empleadobase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24037A4C-13B7-4D1F-B9D6-27D24EAE39AC}|..\\CodigoClase08\\CodigoClase08.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\codigoclase08\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24037A4C-13B7-4D1F-B9D6-27D24EAE39AC}|..\\CodigoClase08\\CodigoClase08.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\codigoclase08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\entidades\\gerenterrhh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{24037A4C-13B7-4D1F-B9D6-27D24EAE39AC}|..\\CodigoClase08\\CodigoClase08.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\codigoclase08\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\interface\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\interface\\isueldobonificable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\entidades\\desarrollador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\interface\\idescuentoimpuesto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AC1C04F-C1DE-4574-9BBF-18DBF92EEFF1}|..\\ConsoleClase15\\ConsoleClase15.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase15\\entidades\\consultor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A4ADCDD0-3180-4B00-876E-CDD3ECF24550}|..\\Consola4\\Consola4.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consola4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -26,6 +38,135 @@
     {
       "AbsoluteMoniker": "D:0:0:{F9F6BC85-49EA-476B-A83B-B81F00CE8CCB}|ConsoleApp3.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9F6BC85-49EA-476B-A83B-B81F00CE8CCB}|ConsoleApp3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\clientevip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\clienteclasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\ideuda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\empleadotiempocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\empleadocontratado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\empleadoporhoras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio02\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6344A94A-E252-4399-84B3-717D41308C47}|..\\Console10\\Console10.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console10\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio02\\ipedidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio02\\provedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\notificaciones\\inotificacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\notificaciones\\email.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\notificaciones\\sms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\idescuento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AE8BFFC-CDE0-4AF5-AB05-B21A78069EE4}|..\\ConsolaClase12\\ConsolaClase12.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase12\\ejercicio01\\ipagable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A079E8-7B9B-47AD-9276-8DED7A8803A5}|..\\ConsoleClase13\\ConsoleClase13.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17A079E8-7B9B-47AD-9276-8DED7A8803A5}|..\\ConsoleClase13\\ConsoleClase13.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consoleclase13\\isvalidnoteexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6344A94A-E252-4399-84B3-717D41308C47}|..\\Console10\\Console10.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\basemodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB29E115-0C05-4F8D-9825-4A9B28523C0A}|..\\ConsolaClase11\\ConsolaClase11.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\consolaclase11\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6344A94A-E252-4399-84B3-717D41308C47}|..\\Console10\\Console10.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console10\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6344A94A-E252-4399-84B3-717D41308C47}|..\\Console10\\Console10.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console10\\cuentaahorro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6344A94A-E252-4399-84B3-717D41308C47}|..\\Console10\\Console10.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console10\\newfolder\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6344A94A-E252-4399-84B3-717D41308C47}|..\\Console10\\Console10.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console10\\newfolder\\empleadofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6344A94A-E252-4399-84B3-717D41308C47}|..\\Console10\\Console10.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console10\\newfolder\\empleadoporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\poligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\rectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\cuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24037A4C-13B7-4D1F-B9D6-27D24EAE39AC}|..\\CodigoClase08\\CodigoClase08.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\codigoclase08\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD996F2A-20F2-4585-94CD-72E8318AF732}|..\\Console09\\Console09.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\console09\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24037A4C-13B7-4D1F-B9D6-27D24EAE39AC}|..\\CodigoClase08\\CodigoClase08.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\codigoclase08\\trabajador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24037A4C-13B7-4D1F-B9D6-27D24EAE39AC}|..\\CodigoClase08\\CodigoClase08.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\codigoclase08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F3D70B09-70B2-4843-BA59-E10214C3B81D}|..\\Estructuras\\Estructuras.csproj|c:\\tecsup\\clase1\\conectandgithub\\repositorybootcampc-\\estructuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -44,7 +185,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -52,59 +193,675 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Estudiante.cs",
-              "RelativeDocumentMoniker": "..\\Console09\\Estudiante.cs",
-              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Estudiante.cs",
-              "RelativeToolTip": "..\\Console09\\Estudiante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T00:40:28.049Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Persona.cs",
-              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Persona.cs",
-              "RelativeDocumentMoniker": "..\\Console09\\Persona.cs",
-              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Persona.cs",
-              "RelativeToolTip": "..\\Console09\\Persona.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\Gerente.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Entidades\\Gerente.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\Gerente.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Entidades\\Gerente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T00:39:09.466Z",
+              "WhenOpened": "2024-10-08T00:22:31.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Console09\\Program.cs",
-              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Program.cs",
-              "RelativeToolTip": "..\\Console09\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA0AAAA",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoBase.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\EmpleadoBase.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Entidades\\EmpleadoBase.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\EmpleadoBase.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Entidades\\EmpleadoBase.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwBIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-21T00:38:25.936Z",
+              "WhenOpened": "2024-10-08T00:19:48.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ISueldoBonificable.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Interface\\ISueldoBonificable.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Interface\\ISueldoBonificable.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Interface\\ISueldoBonificable.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Interface\\ISueldoBonificable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:18:52.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Estudiante.cs",
-              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\CodigoClase08\\Estudiante.cs",
-              "RelativeDocumentMoniker": "..\\CodigoClase08\\Estudiante.cs",
-              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\CodigoClase08\\Estudiante.cs",
-              "RelativeToolTip": "..\\CodigoClase08\\Estudiante.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Program.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAgwHUAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T02:48:59.374Z",
+              "WhenOpened": "2024-10-08T00:17:37.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "IEmpleado.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Interface\\IEmpleado.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Interface\\IEmpleado.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Interface\\IEmpleado.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Interface\\IEmpleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:17:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDescuentoImpuesto.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Interface\\IDescuentoImpuesto.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Interface\\IDescuentoImpuesto.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Interface\\IDescuentoImpuesto.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Interface\\IDescuentoImpuesto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:38:19.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constantes.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Constant\\Constantes.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Constant\\Constantes.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Constant\\Constantes.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Constant\\Constantes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:45:29.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Desarrollador.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\Desarrollador.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Entidades\\Desarrollador.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\Desarrollador.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Entidades\\Desarrollador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:22:43.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GerenteRRHH.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\GerenteRRHH.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Entidades\\GerenteRRHH.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\GerenteRRHH.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Entidades\\GerenteRRHH.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T00:38:45.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Consultor.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\Consultor.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase15\\Entidades\\Consultor.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase15\\Entidades\\Consultor.cs",
+              "RelativeToolTip": "..\\ConsoleClase15\\Entidades\\Consultor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T01:25:35.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T00:49:54.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Consola4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Consola4\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Consola4\\Program.cs",
+              "RelativeToolTip": "..\\Consola4\\Program.cs",
+              "ViewState": "AQIAAOsBAAAAAAAAAADwv/8BAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:54:55.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDeuda.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\IDeuda.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\IDeuda.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\IDeuda.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\IDeuda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:16:01.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClienteClasico.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\ClienteClasico.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\ClienteClasico.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\ClienteClasico.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\ClienteClasico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:13:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClienteVIP.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\ClienteVIP.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\ClienteVIP.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\ClienteVIP.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\ClienteVIP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:12:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Program.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAADwvyoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:18:05.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio02\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio02\\Producto.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio02\\Producto.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio02\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:46:32.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPedidos.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio02\\IPedidos.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio02\\IPedidos.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio02\\IPedidos.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio02\\IPedidos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:47:23.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\Cuenta.cs",
+              "RelativeDocumentMoniker": "..\\Console10\\Cuenta.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\Cuenta.cs",
+              "RelativeToolTip": "..\\Console10\\Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:33:13.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmpleadoContratado.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\EmpleadoContratado.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\EmpleadoContratado.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\EmpleadoContratado.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\EmpleadoContratado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:18:33.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmpleadoPorHoras.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\EmpleadoPorHoras.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\EmpleadoPorHoras.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\EmpleadoPorHoras.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\EmpleadoPorHoras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:15:17.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\Empresa.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\Empresa.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\Empresa.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:20:36.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Provedor.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio02\\Provedor.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio02\\Provedor.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio02\\Provedor.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio02\\Provedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:48:04.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SMS.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Notificaciones\\SMS.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Notificaciones\\SMS.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Notificaciones\\SMS.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Notificaciones\\SMS.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:24:42.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmpleadoTiempoCompleto.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\EmpleadoTiempoCompleto.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\EmpleadoTiempoCompleto.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\EmpleadoTiempoCompleto.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\EmpleadoTiempoCompleto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:18:52.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Email.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Notificaciones\\Email.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Notificaciones\\Email.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Notificaciones\\Email.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Notificaciones\\Email.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:21:05.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "INotificacion.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Notificaciones\\INotificacion.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Notificaciones\\INotificacion.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Notificaciones\\INotificacion.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Notificaciones\\INotificacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T00:19:59.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Program.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:16:52.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDescuento.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\IDescuento.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\IDescuento.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\IDescuento.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\IDescuento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:25:08.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IPagable.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\IPagable.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase12\\Ejercicio01\\IPagable.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase12\\Ejercicio01\\IPagable.cs",
+              "RelativeToolTip": "..\\ConsolaClase12\\Ejercicio01\\IPagable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:14:27.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase13\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase13\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase13\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleClase13\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAwDkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T00:29:10.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IsValidNoteException.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase13\\IsValidNoteException.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleClase13\\IsValidNoteException.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleClase13\\IsValidNoteException.cs",
+              "RelativeToolTip": "..\\ConsoleClase13\\IsValidNoteException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:38:49.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BaseModal.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\BaseModal.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\BaseModal.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\BaseModal.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\BaseModal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T23:00:46.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Servicio.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\Servicio.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Servicio.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:26:26.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Producto.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\Producto.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Producto.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T22:25:47.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CuentaAhorro.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\CuentaAhorro.cs",
+              "RelativeDocumentMoniker": "..\\Console10\\CuentaAhorro.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\CuentaAhorro.cs",
+              "RelativeToolTip": "..\\Console10\\CuentaAhorro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:34:08.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CuentaCorriente.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\CuentaCorriente.cs",
+              "RelativeDocumentMoniker": "..\\Console10\\CuentaCorriente.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\CuentaCorriente.cs",
+              "RelativeToolTip": "..\\Console10\\CuentaCorriente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:33:42.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EmpleadoporHora.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\NewFolder\\EmpleadoporHora.cs",
+              "RelativeDocumentMoniker": "..\\Console10\\NewFolder\\EmpleadoporHora.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\NewFolder\\EmpleadoporHora.cs",
+              "RelativeToolTip": "..\\Console10\\NewFolder\\EmpleadoporHora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:53:19.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Console10\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\Program.cs",
+              "RelativeToolTip": "..\\Console10\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:51:47.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Trabajador.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Trabajador.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\Trabajador.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Trabajador.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\Trabajador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:35:58.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Curso.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\Curso.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Curso.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\Curso.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:17:57.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Estudiante.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\Estudiante.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Estudiante.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:18:07.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EmpleadoFijo.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\NewFolder\\EmpleadoFijo.cs",
+              "RelativeDocumentMoniker": "..\\Console10\\NewFolder\\EmpleadoFijo.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\NewFolder\\EmpleadoFijo.cs",
+              "RelativeToolTip": "..\\Console10\\NewFolder\\EmpleadoFijo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:52:50.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Empresa.cs",
+              "RelativeDocumentMoniker": "..\\ConsolaClase11\\Empresa.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsolaClase11\\Empresa.cs",
+              "RelativeToolTip": "..\\ConsolaClase11\\Empresa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:35:24.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\NewFolder\\Empleado.cs",
+              "RelativeDocumentMoniker": "..\\Console10\\NewFolder\\Empleado.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console10\\NewFolder\\Empleado.cs",
+              "RelativeToolTip": "..\\Console10\\NewFolder\\Empleado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T00:52:08.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Triangulo.cs",
+              "RelativeDocumentMoniker": "..\\Console09\\Triangulo.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Triangulo.cs",
+              "RelativeToolTip": "..\\Console09\\Triangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:32:25.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Rectangulo.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Rectangulo.cs",
+              "RelativeDocumentMoniker": "..\\Console09\\Rectangulo.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Rectangulo.cs",
+              "RelativeToolTip": "..\\Console09\\Rectangulo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:32:04.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Cuadrado.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Cuadrado.cs",
+              "RelativeDocumentMoniker": "..\\Console09\\Cuadrado.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Cuadrado.cs",
+              "RelativeToolTip": "..\\Console09\\Cuadrado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:31:44.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Poligono.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Poligono.cs",
+              "RelativeDocumentMoniker": "..\\Console09\\Poligono.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Poligono.cs",
+              "RelativeToolTip": "..\\Console09\\Poligono.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T02:27:40.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Estudiante.cs",
+              "RelativeDocumentMoniker": "..\\Console09\\Estudiante.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Estudiante.cs",
+              "RelativeToolTip": "..\\Console09\\Estudiante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:40:28.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Persona.cs",
+              "RelativeDocumentMoniker": "..\\Console09\\Persona.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Persona.cs",
+              "RelativeToolTip": "..\\Console09\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:39:09.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Console09\\Program.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Console09\\Program.cs",
+              "RelativeToolTip": "..\\Console09\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBGwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T00:38:25.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\CodigoClase08\\Estudiante.cs",
+              "RelativeDocumentMoniker": "..\\CodigoClase08\\Estudiante.cs",
+              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\CodigoClase08\\Estudiante.cs",
+              "RelativeToolTip": "..\\CodigoClase08\\Estudiante.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBGwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T02:48:59.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
               "Title": "Trabajador.cs",
               "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\CodigoClase08\\Trabajador.cs",
               "RelativeDocumentMoniker": "..\\CodigoClase08\\Trabajador.cs",
@@ -112,51 +869,36 @@
               "RelativeToolTip": "..\\CodigoClase08\\Trabajador.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T01:06:05.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T01:06:05.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 54,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\CodigoClase08\\Program.cs",
               "RelativeDocumentMoniker": "..\\CodigoClase08\\Program.cs",
               "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\CodigoClase08\\Program.cs",
               "RelativeToolTip": "..\\CodigoClase08\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBGwBcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T00:20:36.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T00:20:36.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 55,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Estructuras\\Program.cs",
               "RelativeDocumentMoniker": "..\\Estructuras\\Program.cs",
               "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Estructuras\\Program.cs",
               "RelativeToolTip": "..\\Estructuras\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAfAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA+wBgAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T02:30:41.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Consola4\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Consola4\\Program.cs",
-              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Consola4\\Program.cs",
-              "RelativeToolTip": "..\\Consola4\\Program.cs",
-              "ViewState": "AQIAAPwBAAAAAAAAAAAIwAICAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T00:54:55.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 57,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\POO\\Program.cs",
               "RelativeDocumentMoniker": "..\\POO\\Program.cs",
@@ -168,27 +910,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 56,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Scrapping\\Program.cs",
               "RelativeDocumentMoniker": "..\\Scrapping\\Program.cs",
               "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\Scrapping\\Program.cs",
               "RelativeToolTip": "..\\Scrapping\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBGwBIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T00:10:29.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleApp3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Tecsup\\Clase1\\ConectandGithub\\RepositoryBootcampC-\\ConsoleApp3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T00:49:54.602Z"
             }
           ]
         }
